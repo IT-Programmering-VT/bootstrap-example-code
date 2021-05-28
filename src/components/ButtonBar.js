@@ -22,3 +22,5 @@ const ButtonBar = () => {
 };
 
 export default ButtonBar;
+
+// once we have set up our routes in app we can use the link component to create links
